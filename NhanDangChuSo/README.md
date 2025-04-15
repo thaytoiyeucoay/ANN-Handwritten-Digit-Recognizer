@@ -99,4 +99,7 @@ Sau khi chạy xong quy trình, các kết quả sau sẽ được tạo ra tron
 - Ma trận nhầm lẫn
 - Ví dụ dự đoán
 - Biểu đồ độ chính xác theo chữ số
-- Báo cáo tổng hợp và nhiều trực quan khác 
+- Báo cáo tổng hợp và nhiều trực quan khác
+
+## Lưu ý
+Do kích thước folder Data quá lớn nên mình đã không push lên. Tuy nhiên, khi chạy mô hình thì bộ dữ liệu và folder sẽ được tự động tạo nhé!
