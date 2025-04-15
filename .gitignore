@@ -1,0 +1,6 @@
+NhanDangChuSo/data/X_train.npy
+NhanDangChuSo/data/X_val.npy
+NhanDangChuSo/data/X_test.npy
+NhanDangChuSo/data/*.npy
+NhanDangChuSo/data/*.npy
+NhanDangChuSo/data/*.npy
